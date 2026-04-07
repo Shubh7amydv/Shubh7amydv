@@ -67,13 +67,17 @@
 
 ### 📈 GitHub Stats
 
-![GitHub Stars](https://img.shields.io/github/stars/Shubh7amydv?color=green&label=Stars&logo=github)
+[![GitHub User's stars](https://img.shields.io/github/stars/Shubh7amydv?color=green&label=GitHub%20Stars&logo=github&style=flat-square)](https://github.com/Shubh7amydv?tab=repositories&q=&type=public&language=&sort=stargazers)
 
-<p align="center">
-  <img src="https://gh-readme-profile.vercel.app/api?username=Shubh7amydv&theme=github_dark&hide_border=true" />
-</p>
-
----
+<table>
+  <tr>
+    <td>
+      <a href="http://www.github.com/Shubh7amydv">
+        <img src="https://gh-readme-profile.vercel.app/api?username=Shubh7amydv&theme=github_dark&hide_stroke=true&hide_border=true" alt="Shubham's GitHub stats" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### 🚀 Projects
 
