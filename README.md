@@ -20,10 +20,9 @@
 ### 👨‍💻 About Me
 
 - 🔭 Currently building **real-world backend systems & scalable APIs**
-- 🌱 Learning **System Design, TypeScript & Advanced Backend**
 - 💡 Interested in **AI integrations, real-time apps & performance optimization**
 - 🧠 Practicing **DSA & solving LeetCode regularly**
-- 🎯 Goal: Crack a **top product-based company internship**
+- 🎯 Goal: Build scalable systems and products that make real impact
 
 ---
 
@@ -56,13 +55,12 @@
 [![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white)](#)
 
 #### 🧰 Tools & Platforms
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](#)
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](#)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](#)
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)](#)
 [![Razorpay](https://img.shields.io/badge/Razorpay-02042B?logo=razorpay&logoColor=white)](#)
-[![Nodemailer](https://img.shields.io/badge/Nodemailer-009688?logo=gmail&logoColor=white)](#)
 [![Render](https://img.shields.io/badge/Render-000000?logo=render&logoColor=white)](#)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
@@ -81,7 +79,6 @@
 
 - 🔹 [Prep AI](https://prep-ai-indol.vercel.app) – AI-based interview preparation platform  
 - 🔹 [Drive For Good](https://drive-for-good-2c1s.vercel.app/) – Social impact platform  
-- 🔹 [Portfolio](https://portfolio-website-i9x3.vercel.app/)  
 
 ---
 
