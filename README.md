@@ -79,21 +79,9 @@
   </tr>
 </table>
 
-### 🚀 Projects
-
-- 🔹 [Prep AI](https://prep-ai-indol.vercel.app) – AI-based interview preparation platform  
-- 🔹 [Drive For Good](https://drive-for-good-2c1s.vercel.app/) – Social impact platform  
-
 ---
 
-### 🌐 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://portfolio-website-i9x3.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Shubh7amydv)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-5088522b9/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=orange)](https://leetcode.com/u/oNyOu6AaY1/)
-
----
 
 ### ⚡ Fun Fact
 I don’t just write code — I build systems 🚀
